@@ -9,3 +9,5 @@
 [Ejercicios](https://github.com/lauraestefany/Mineria-de-datos/blob/master/Ejercicios1_5_003.ipynb)
 
 [Resumenes](https://github.com/Eliezercastillo-alcantar/Mineria_de_Datos/blob/master/resumen.pdf)
+
+[Bases de datos](https://github.com/Eliezercastillo-alcantar/Mineria_de_Datos/blob/master/AnalisisBD_1684521.pdf)
