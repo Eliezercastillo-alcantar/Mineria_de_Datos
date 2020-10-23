@@ -11,3 +11,5 @@
 [Resumenes](https://github.com/Eliezercastillo-alcantar/Mineria_de_Datos/blob/master/resumen.pdf)
 
 [Bases de datos](https://github.com/Eliezercastillo-alcantar/Mineria_de_Datos/blob/master/AnalisisBD_1684521.pdf)
+
+[Ejericios de mineria](https://github.com/Eliezercastillo-alcantar/Mineria_de_Datos/blob/master/Ejercicios%20de%20Mineria.ipynb)
